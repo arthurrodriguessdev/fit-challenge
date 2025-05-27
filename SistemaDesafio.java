@@ -1,6 +1,6 @@
 package FitChallenge;
 
-public class SistemaDesafio {
+public class SistemaDesafio { //Classe principal, chamada de métodos
 	public static void main(String[] args) {
 		
 		ExibirDados exibir = new ExibirDados();
